@@ -1,18 +1,3 @@
-# BootCode
-Quelque Code utile
-
-## Input Custom
-```html
-<form class="" action="index.html" method="post">
-  <div class="cusput">
-    <input class="custom-input" type="text" name="" value="" placeholder="rechercher">
-    <div class="encard-glass">
-      <img src="search.svg" alt="">
-    </div>
-  </div>
-</form>
-```
-```css
 .custom-input{
   border: 1px solid royalblue;
   background-color: royalblue;
@@ -24,7 +9,6 @@ Quelque Code utile
   color: yellow;
   font-weight: bold;
 }
-/* Supplément */
 .cusput{
   background-color: royalblue;
   display: flex;
@@ -42,5 +26,3 @@ Quelque Code utile
   width: 100%;
   height: 100%;
 }
-
-```
