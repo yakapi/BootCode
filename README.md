@@ -48,6 +48,7 @@ Quelque Code utile
 
 ```
 ## Object fit
+![text altternatif](beforeafter.PNG)  
 #html
 ```html
 <div class="encard-logo">
