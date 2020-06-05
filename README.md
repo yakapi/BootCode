@@ -2,6 +2,7 @@
 Quelque Code utile
 
 ## Input Custom
+#html
 ```html
 <form class="" action="index.html" method="post">
   <div class="cusput">
@@ -12,6 +13,7 @@ Quelque Code utile
   </div>
 </form>
 ```
+#css
 ```css
 .custom-input{
   border: 1px solid royalblue;
@@ -43,4 +45,28 @@ Quelque Code utile
   height: 100%;
 }
 
+```
+## Object fit
+#html
+```html
+<div class="encard-logo">
+  <img class="fit" src="chanel.png" alt="">
+</div>
+<div class="encard-logo">
+  <img class="fit" src="fila.png" alt="">
+</div>
+```
+#css
+```css
+.fit{
+  object-fit: contain;
+}
+.encard-logo{
+  width: 120px;
+  height: 120px;
+}
+.encard-logo img{
+  width: 100%;
+  height: 100%;
+}
 ```

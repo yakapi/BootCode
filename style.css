@@ -1,3 +1,4 @@
+/* Custom Input */
 .custom-input{
   border: 1px solid royalblue;
   background-color: royalblue;
@@ -25,4 +26,28 @@
 .encard-glass img{
   width: 100%;
   height: 100%;
+}
+
+/* Object Fit */
+.fit{
+  object-fit: contain;
+}
+.encard-logo{
+  width: 120px;
+  height: 120px;
+}
+.encard-logo img{
+  width: 100%;
+  height: 100%;
+}
+
+.before, .after{
+  margin: 50px;
+}
+.before-after{
+  display: flex;
+  text-align: center;
+}
+.zone-logo{
+  display: flex;
 }
