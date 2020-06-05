@@ -2,7 +2,7 @@
 Quelque Code utile
 
 ## Input Custom
-![text altternatif](custom-input.PNG)
+![text altternatif](custom-input.PNG)  
 #html
 ```html
 <form class="" action="index.html" method="post">
