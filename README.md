@@ -2,6 +2,7 @@
 Quelque Code utile
 
 ## Input Custom
+![text altternatif](custom-input.PNG)
 #html
 ```html
 <form class="" action="index.html" method="post">
@@ -47,7 +48,6 @@ Quelque Code utile
 
 ```
 ## Object fit
-![text altternatif](custom-input.png)
 #html
 ```html
 <div class="encard-logo">
