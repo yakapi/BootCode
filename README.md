@@ -47,6 +47,7 @@ Quelque Code utile
 
 ```
 ## Object fit
+![text altternatif](custom-input.png)
 #html
 ```html
 <div class="encard-logo">
